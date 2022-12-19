@@ -1,0 +1,30 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\AreadeUsuario\bin\Debug\net7.0\AreadeUsuario.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\AreadeUsuario\bin\Debug\net7.0\AreadeUsuario.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\AreadeUsuario\bin\Debug\net7.0\AreadeUsuario.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\AreadeUsuario\bin\Debug\net7.0\AreadeUsuario.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\AreadeUsuario\bin\Debug\net7.0\AreadeUsuario.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\AreadeUsuario\obj\Debug\net7.0\AreadeUsuario.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\AreadeUsuario\obj\Debug\net7.0\AreadeUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\AreadeUsuario\obj\Debug\net7.0\AreadeUsuario.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\AreadeUsuario\obj\Debug\net7.0\AreadeUsuario.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\AreadeUsuario\obj\Debug\net7.0\AreadeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\AreadeUsuario\obj\Debug\net7.0\AreadeUsuario.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\AreadeUsuario\obj\Debug\net7.0\refint\AreadeUsuario.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\AreadeUsuario\obj\Debug\net7.0\AreadeUsuario.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\AreadeUsuario\obj\Debug\net7.0\AreadeUsuario.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Projetos\AreadeUsuario\obj\Debug\net7.0\ref\AreadeUsuario.dll
+C:\AreadeUsuario\bin\Debug\net7.0\AreadeUsuario.exe
+C:\AreadeUsuario\bin\Debug\net7.0\AreadeUsuario.deps.json
+C:\AreadeUsuario\bin\Debug\net7.0\AreadeUsuario.runtimeconfig.json
+C:\AreadeUsuario\bin\Debug\net7.0\AreadeUsuario.dll
+C:\AreadeUsuario\bin\Debug\net7.0\AreadeUsuario.pdb
+C:\AreadeUsuario\obj\Debug\net7.0\AreadeUsuario.csproj.AssemblyReference.cache
+C:\AreadeUsuario\obj\Debug\net7.0\AreadeUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\AreadeUsuario\obj\Debug\net7.0\AreadeUsuario.AssemblyInfoInputs.cache
+C:\AreadeUsuario\obj\Debug\net7.0\AreadeUsuario.AssemblyInfo.cs
+C:\AreadeUsuario\obj\Debug\net7.0\AreadeUsuario.csproj.CoreCompileInputs.cache
+C:\AreadeUsuario\obj\Debug\net7.0\AreadeUsuario.dll
+C:\AreadeUsuario\obj\Debug\net7.0\refint\AreadeUsuario.dll
+C:\AreadeUsuario\obj\Debug\net7.0\AreadeUsuario.pdb
+C:\AreadeUsuario\obj\Debug\net7.0\AreadeUsuario.genruntimeconfig.cache
+C:\AreadeUsuario\obj\Debug\net7.0\ref\AreadeUsuario.dll
