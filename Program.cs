@@ -25,12 +25,7 @@ while(menu)
         menu = false;
         Console.WriteLine("Obrigado por utilizar nosso serviço");
         break;
-        case "0":
-        u.consulta();
-        break;
-        case "1":
-        u.consulta2();
-        break;
+        
     }
 }
 Console.WriteLine("Precione  qualquer tecla");
