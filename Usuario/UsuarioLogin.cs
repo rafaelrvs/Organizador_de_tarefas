@@ -165,25 +165,8 @@ namespace AreadeUsuario.Usuario
             Console.Clear();
             Console.WriteLine("Agora que finalizou seu cadastro vamos entrar?");
             Login();
-
-
         }
-        public void consulta()
-        {
-            foreach (string objeto in UsuarioPermitido)
-            {
-                Console.WriteLine(objeto);
-
-            }
-        }
-        public void consulta2()
-        {
-            foreach (string objeto in SenhaPermitida)
-            {
-                Console.WriteLine(objeto);
-
-            }
-        }
+       
 
         public void usuarioLogado()
         {
